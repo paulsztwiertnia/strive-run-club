@@ -35,13 +35,13 @@ export default function Navigation() {
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8">
             {navLinks.map((link) => (
-              <Link
+                <Link
                 key={link.href}
                 href={link.href}
-                className={`text-sm font-medium transition-colors hover:text-[#C1FF72] ${
+                className={`text-md font-medium transition-all hover:text-black hover:border-b-2 hover:border-[#C1FF72] pb-1 ${
                   pathname === link.href
                     ? 'text-black border-b-2 border-[#C1FF72]'
-                    : 'text-gray-600'
+                    : 'text-gray-600 border-b-2 border-transparent'
                 }`}
               >
                 {link.label}

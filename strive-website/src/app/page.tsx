@@ -7,13 +7,13 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative h-[70vh] min-h-[500px] flex items-center justify-center">
         <div className="absolute inset-0 z-0">
-          <Image
+        <Image
             src="/STR-1-scaled.jpg"
             alt="Strive Run Club in action"
             fill
             className="object-cover brightness-50"
-            priority
-          />
+          priority
+        />
         </div>
         <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
