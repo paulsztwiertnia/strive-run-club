@@ -31,7 +31,7 @@ export default function Events() {
         <div className="space-y-12">
           <div className="text-center mb-12">
             <p className="text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto">
-              We believe in building a community both on and off the running path. Throughout the year, we organize fun events for our members to come together, celebrate progress, and support each other. Here's what we have planned for the future:
+              We believe in building a community both on and off the running path. Throughout the year, we organize fun events for our members to come together, celebrate progress, and support each other. Here&apos;s what we have planned for the future:
             </p>
           </div>
 
@@ -46,7 +46,7 @@ export default function Events() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-center">Charity Runs</h3>
               <p className="text-gray-700 leading-relaxed text-center">
-                We love giving back to the community. A few times a year, we organize charity runs to raise funds for local causes. It's a great way to make our miles count for something bigger.
+                We love giving back to the community. A few times a year, we organize charity runs to raise funds for local causes. It&apos;s a great way to make our miles count for something bigger.
               </p>
             </div>
 

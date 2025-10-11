@@ -139,7 +139,7 @@ export default function Training() {
             <div className="text-4xl mb-4 text-center">💪</div>
             <h3 className="text-xl font-bold mb-3 text-center">Strength Training</h3>
             <p className="text-gray-700 text-center">
-              Whether you're a beginner or an experienced athlete, our workouts focus on improving endurance, power, and injury prevention through weight training, resistance exercises, and bodyweight movements.
+              Whether you&apos;re a beginner or an experienced athlete, our workouts focus on improving endurance, power, and injury prevention through weight training, resistance exercises, and bodyweight movements.
             </p>
           </div>
         </div>
@@ -152,7 +152,7 @@ export default function Training() {
             <h2 className="text-4xl md:text-5xl font-bold mb-4">1-on-1 Training Sessions</h2>
             <div className="w-24 h-1 bg-[#C1FF72] mx-auto mb-6"></div>
             <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-              Personalized training tailored to your goals, whether you're focusing on running, strength, or a combination of both.
+              Personalized training tailored to your goals, whether you&apos;re focusing on running, strength, or a combination of both.
             </p>
           </div>
 
