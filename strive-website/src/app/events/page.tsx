@@ -5,11 +5,15 @@ export default function Events() {
     "/STR-1-scaled.jpg",
     "/STR-2-scaled.jpg",
     "/STR-3-scaled.jpg",
-    "/STR-4-scaled.jpg",
     "/STR-5-scaled.jpg",
     "/STR-6-scaled.jpg",
     "/STR-7-scaled.jpg",
     "/STR-8-scaled.jpg",
+    "/1.jpeg",
+    "/2.jpeg",
+    "/3.jpeg",
+    "/4.jpeg",
+    "/5.jpeg"
   ];
 
   return (

@@ -9,7 +9,11 @@ export default function Activities() {
     "/STR-9-scaled.jpg",
     "/STR-10-scaled.jpg",
     "/STR-11-scaled.jpg",
-    "/IMG_5732-scaled.jpg",
+    "/1.jpeg",
+    "/2.jpeg",
+    "/3.jpeg",
+    "/4.jpeg",
+    "/5.jpeg"
   ];
 
   const schedule = [

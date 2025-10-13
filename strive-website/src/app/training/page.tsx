@@ -3,14 +3,10 @@ import Link from "next/link";
 
 export default function Training() {
   const galleryImages = [
-    "/STR-3-scaled.jpg",
-    "/STR-4-scaled.jpg",
     "/IMG_6245-scaled.jpg",
     "/STR-9-scaled.jpg",
     "/STR-10-scaled.jpg",
-    "/STR-11-scaled.jpg",
-    "/coach-karim-2.png",
-    "/STR-2-scaled.jpg",
+    "/STR-11-scaled.jpg"
   ];
 
   const strengthPackages = [

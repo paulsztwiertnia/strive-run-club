@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative h-[70vh] min-h-[500px] flex items-center justify-center">
+      <section className="relative h-[90vh] min-h-[500px] flex items-center justify-center">
         <div className="absolute inset-0 z-0">
         <Image
             src="/STR-1-scaled.jpg"
