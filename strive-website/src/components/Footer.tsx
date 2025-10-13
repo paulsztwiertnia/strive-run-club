@@ -55,7 +55,7 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://www.instagram.com/strive_runners?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
                 className="text-gray-400 hover:text-[#C1FF72] transition-colors"
                 aria-label="Instagram"
               >

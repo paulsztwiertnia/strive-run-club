@@ -71,7 +71,7 @@ export default function Events() {
               Follow us on Instagram for the latest announcements about our community events, charity runs, and special gatherings.
             </p>
             <a
-              href="#"
+              href="https://www.instagram.com/strive_runners?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
               className="inline-flex items-center space-x-2 bg-black text-white px-6 py-3 rounded-full font-semibold hover:bg-gray-800 transition-colors"
             >
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">

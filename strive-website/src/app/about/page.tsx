@@ -59,7 +59,7 @@ export default function About() {
               </p>
 
               <p>
-                Dedicated to creating inclusive environments, Karim ensures that every runner—whether new or experienced—feels supported and empowered to improve. He leads each session with high energy and positivity, inspiring others to push beyond their limits while keeping the focus on connection, growth, and fun.
+                Dedicated to creating inclusive environments, Karim ensures that every runner whether new or experienced feels supported and empowered to improve. He leads each session with high energy and positivity, inspiring others to push beyond their limits while keeping the focus on connection, growth, and fun.
               </p>
             </div>
           </div>

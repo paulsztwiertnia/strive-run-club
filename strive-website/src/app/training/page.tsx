@@ -1,4 +1,5 @@
 import PhotoGallery from "@/components/PhotoGallery";
+import Link from "next/link";
 
 export default function Training() {
   const galleryImages = [
@@ -207,6 +208,14 @@ export default function Training() {
                 </div>
               ))}
             </div>
+            <div className="text-center mt-8">
+              <Link
+                href="mailto:karim@striverunclub.com?subject=1-on-1 Training Session Inquiry&body=Hi, I'm interested in booking a training session. Please let me know your availability."
+                className="inline-block bg-[#C1FF72] text-black px-8 py-4 rounded-full font-semibold text-lg hover:bg-[#b3e866] transition-colors"
+              >
+                Book a session
+              </Link>
+            </div>
           </div>
 
           {/* Running Training Packages */}
@@ -243,6 +252,14 @@ export default function Training() {
                   </div>
                 </div>
               ))}
+            </div>
+            <div className="text-center mt-8">
+              <Link
+                href="mailto:karim@striverunclub.com?subject=Running Training Session Inquiry&body=Hi, I'm interested in booking a running training session. Please let me know your availability."
+                className="inline-block bg-[#C1FF72] text-black px-8 py-4 rounded-full font-semibold text-lg hover:bg-[#b3e866] transition-colors"
+              >
+                Book a session
+              </Link>
             </div>
           </div>
 
@@ -287,6 +304,14 @@ export default function Training() {
               ))}
             </div>
           </div>
+          <div className="text-center mt-8">
+            <Link
+              href="mailto:karim@striverunclub.com?subject=Hybrid Training Session Inquiry&body=Hi, I'm interested in booking a hybrid training session. Please let me know your availability."
+              className="inline-block bg-[#C1FF72] text-black px-8 py-4 rounded-full font-semibold text-lg hover:bg-[#b3e866] transition-colors"
+            >
+              Book a session
+            </Link>
+          </div>
         </div>
       </section>
 
@@ -312,7 +337,7 @@ export default function Training() {
             Book your 1-on-1 session today and start achieving your fitness goals
           </p>
           <a
-            href="#"
+            href="mailto:karim@striverunclub.com?subject=Training Session Inquiry&body=Hi, I'm interested in booking a training session. Please let me know your availability."
             className="inline-block bg-[#C1FF72] text-black px-8 py-4 rounded-full font-semibold text-lg hover:bg-[#b3e866] transition-colors"
           >
             Contact Us to Book

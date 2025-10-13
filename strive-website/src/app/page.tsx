@@ -23,7 +23,7 @@ export default function Home() {
             Run, Connect, Thrive Together
           </p>
           <Link
-            href="/activities"
+            href="/events"
             className="inline-block bg-[#C1FF72] text-black px-8 py-4 rounded-full font-semibold text-lg hover:bg-[#b3e866] transition-colors"
           >
             Join Our Next Run
@@ -44,7 +44,7 @@ export default function Home() {
 
           <div className="prose prose-lg max-w-none">
             <p className="text-lg md:text-xl leading-relaxed text-gray-700 mb-6">
-              Our run club is more than just a community of runners—it&apos;s a family that supports and inspires each other to move towards our personal best, no matter our experience level. Whether you&apos;re training for your next marathon or taking your first steps towards running, our club is here to help you achieve your fitness goals while having fun along the way.
+              Our run club is more than just a community of runners, it&apos;s a family that supports and inspires each other to move towards our personal best, no matter our experience level. Whether you&apos;re training for your next marathon or taking your first steps towards running, our club is here to help you achieve your fitness goals while having fun along the way.
             </p>
 
             <p className="text-lg md:text-xl leading-relaxed text-gray-700 mb-6">
@@ -55,11 +55,9 @@ export default function Home() {
               Beyond running, we recognize the deep connection between physical and mental well-being. Our club fosters an environment where movement becomes a tool for stress relief, confidence building, and self-care. Through mindfulness-based runs, guided breathwork, and a supportive community, we aim to empower every member to strengthen both their body and mind.
             </p>
 
-            <div className="text-center">
               <p className="text-2xl md:text-3xl font-semibold text-black">
-                Come and join the movement—let&apos;s make every step count, together!
+                Come and join the movement let&apos;s make every step count, together!
               </p>
-            </div>
           </div>
         </div>
       </section>
@@ -121,7 +119,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="/activities"
+              href="/events"
               className="inline-block bg-[#C1FF72] text-black px-8 py-4 rounded-full font-semibold text-lg hover:bg-[#b3e866] transition-colors"
             >
               View Schedule
