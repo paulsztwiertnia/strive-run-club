@@ -58,7 +58,7 @@ export default function Activities() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="text-center mb-16">
           <p className="text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto">
-            Join us Monday, Wednesday, and Saturday for our group runs! Whether you&apos;re a seasoned runner or just getting started, our runs are designed for all experience levels. These social runs are a fantastic way to meet new people, enjoy the outdoors, and stay active without pressure. Everyone runs at their own pace, and we always have a coach bringing up the rear so no one gets left behind. Come join the fun and make running a part of your weekly routine!
+            Join us Monday, Wednesday, and Sunday for our group runs! Whether you&apos;re a seasoned runner or just getting started, our runs are designed for all experience levels. These social runs are a fantastic way to meet new people, enjoy the outdoors, and stay active without pressure. Everyone runs at their own pace, and we always have a coach bringing up the rear so no one gets left behind. Come join the fun and make running a part of your weekly routine!
           </p>
         </div>
 
