@@ -2,6 +2,13 @@ import PhotoGallery from "@/components/PhotoGallery";
 
 export default function Events() {
   const galleryImages = [
+    "/camh/camh1.JPEG",
+    "/camh/camh2.JPEG",
+    "/camh/camh3.JPEG",
+    "/camh/camh4.JPEG",
+    "/camh/camh5.JPEG",
+    "/camh/camh6.JPEG",
+    "/camh/camh7.JPEG",
     "/STR-1-scaled.jpg",
     "/STR-2-scaled.jpg",
     "/STR-3-scaled.jpg",

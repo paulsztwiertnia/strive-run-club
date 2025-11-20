@@ -39,7 +39,7 @@ export default function PhotoGallery({ images }: PhotoGalleryProps) {
         >
           <div className="relative max-w-7xl max-h-[90vh] w-full h-full">
             <button
-              className="absolute top-4 right-4 text-white text-4xl font-light hover:text-[#C1FF72] transition-colors z-10"
+              className="absolute top-0 right-0 text-white text-4xl font-light hover:text-[#C1FF72] transition-colors z-10 cursor-pointer"
               onClick={() => setSelectedImage(null)}
               aria-label="Close"
             >
